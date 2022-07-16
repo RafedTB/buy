@@ -1,8 +1,8 @@
 <?php
 
-   $db_name = "mysql:host=localhost;dbname=echange";
-   $username = "root";
-   $password = "";
+   $db_name = "mysql:host=sql108.epizy.com;dbname=epiz_32177739_echange";
+   $username = "epiz_32177739";
+   $password = "85iSNEYPnXEO";
 
    $conn = new PDO($db_name, $username, $password);
 
